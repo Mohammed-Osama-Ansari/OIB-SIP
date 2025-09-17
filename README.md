@@ -1,7 +1,8 @@
-Oasis Infobyte – Data Analytics Internship
+# Oasis Infobyte – Data Analytics Internship
 
 
 📍 Mode: Virtual
+
 📅 Duration: September 2025 – October 2025
 
 
